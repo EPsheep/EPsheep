@@ -1,16 +1,21 @@
-### Hi there 👋
+## 概要简述
+![avatar][avatar]
 
-<!--
-**EPsheep/EPsheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 嘿, 你好! 我叫胡荣, 一名普通的程序员。
 
-Here are some ideas to get you started:
+## 所掌握的职业技能
+- PHP
+- Python
+- Golang
+- Java
+- Node.js
+- Mysql
+- Docker
+- Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 正在做的事
+- 深入学习Mysql中的索引与算法
+- 学习Kafka
+- 阅读《拖延心理学》
+
+[avatar]: https://s1.ax1x.com/2020/07/05/UpyY9A.jpg
