@@ -1,5 +1,4 @@
 ## 概要简述
-![avatar][avatar]
 
 > 嘿, 你好! 我叫胡荣, 一名普通的后端程序员。
 
@@ -17,5 +16,3 @@
 - Mysql
 - Docker
 - Redis
-
-[avatar]: https://s1.ax1x.com/2020/07/05/UpyY9A.jpg
